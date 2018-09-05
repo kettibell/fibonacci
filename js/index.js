@@ -1,5 +1,5 @@
 // document.write('<h1>Hello World</h1>');
-const n = parseInt(prompt('Enter n'));
+const n = parseInt(prompt('Enter number of Fibonacci sequence:'));
 
 function fibonacciFor(n) {
     document.write('<h1>1) First option (for):</h1>');
